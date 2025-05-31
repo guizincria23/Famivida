@@ -1,4 +1,10 @@
 # FamiVida - Documentação Completa
+integrantes:
+Guilherme Ferreira,
+Rebeka Farias,
+Lucas Soares,
+Matheus Lohan,
+Eduardo Felipe,
 
 ![Banner do App](image.png)
 
